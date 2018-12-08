@@ -1,5 +1,7 @@
 ---
-description: 'IoT помогает ухаживать за пчелами, и увеличивать урожайность меда'
+description: >-
+  IoT helps to care for the bees, and increase the yield of honey (помогает
+  ухаживать за пчелами, и увеличивать урожайность меда)
 ---
 
 # beeHive
